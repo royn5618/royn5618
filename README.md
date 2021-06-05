@@ -6,13 +6,10 @@ I am Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwi
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://medium.com/@nroy0110">
-  <img align="left" alt="Nabanita's Medium Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
-</a>
-
 </br>
 
-## My Blogs:
+📜 
+## My Latest Blogs:
 
 ✒ <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?source=your_stories_page-------------------------------------" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a>
   
