@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub Repository
+
+I am Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwide.com/).
+
+<a href="http://www.linkedin.com/in/nabanita-roy">
+  <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+## My Blogs:
+
+<a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866?source=your_stories_page-------------------------------------" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a>
 
 <!--
 **royn5618/royn5618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
