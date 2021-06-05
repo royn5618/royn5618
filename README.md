@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Repository
 
-I am Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwide.com/).
+I am a Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwide.com/).
 
 <a href="http://www.linkedin.com/in/nabanita-roy">
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
