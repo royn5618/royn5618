@@ -8,7 +8,7 @@ I am Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwi
 
 </br>
 
-📜 <h3>My Latest Blogs:</h3)
+📜 <h3>My Latest Blogs:</h3>
 
 ✒ <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?source=your_stories_page-------------------------------------" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a>
   
