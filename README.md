@@ -10,7 +10,7 @@ I am Data Scientist, currently working at [ACI Worldwide](https://www.aciworldwi
 
 ## My Blogs:
 
-<div><a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?source=your_stories_page-------------------------------------" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a>
+✒ <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?source=your_stories_page-------------------------------------" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a>
   
 <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866?source=your_stories_page-------------------------------------" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a>
   
