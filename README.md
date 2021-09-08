@@ -18,7 +18,10 @@ Python and Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Bl
 ✒ <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866?source=your_stories_page-------------------------------------" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a></br>
 ✒ <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc?source=your_stories_page-------------------------------------" rel="noopener">Predicting Hazardous Seismic Bumps Part I&nbsp;: EDA, Feature Engineering &amp; Splitting Unbalanced Dataset</a></br>
 ✒ <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-part-ii-training-supervised-classifier-models-and-8b9104b611b0?source=your_stories_page-------------------------------------" rel="noopener">Predicting Hazardous Seismic Bumps Part II: Training &amp; Tuning Supervised ML Classifiers and Model…</a>
-</ul></div>
+✒ <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399" rel="noopener">Matrix Design for Vector Space Models in Natural Language Processing</a>
+✒ <a href="https://towardsdatascience.com/a-simplified-explanation-of-supervised-machine-learning-for-electrical-and-electronics-engineers-6d533cdedc6d" rel="noopener">ML Jargons Busted: Supervised Machine Learning for Electrical and Electronics Engineers</a>
+</ul>
+</div>
 
 <!--
 **royn5618/royn5618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
