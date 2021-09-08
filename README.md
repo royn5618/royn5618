@@ -10,7 +10,7 @@ Python and Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Bl
 
 </br>
 
-<h3>📜 My Latest Blogs:</h3>
+<h3>📜 My Blogs:</h3>
 <div>
 <ul>
 ✒ <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a>
