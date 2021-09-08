@@ -31,7 +31,7 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 ✒ <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443" rel="noopener">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</a></br>
 ✒ <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3" rel="noopener">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</a></br>
 ✒ <a href="https://towardsdatascience.com/extracting-features-from-covids-news-a-simple-bag-of-words-approach-for-time-series-text-data-bffe59de76a1" rel="noopener">Extracting Features From Covid News: A Simple Bag-of-Words Approach for Time-Series Text Data Modelling | Covid-19 Article 2</a></br>
-
+</br>
 <b>Misc</b></br>
 ✒ <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a></br>
 
@@ -61,3 +61,4 @@ Here are some ideas to get you started:
 💬 Ask me about Python, Data Analysis, Data Science, Coding, Ireland, Study Abroad, Natural Language Processing, Women in AI, Data Science Portfolio</br>
 📫 How to reach me: <a>nabanita@womeninai.co</a></br>
 🔭 I’m currently working on Deep Learning for Text Generation</br>
+👯 If you are looking for collaborations for Data Science projects - check out [WaiPRACTICE](https://women-in-ai-ireland.github.io/WAIPracticeInfoPage/)
