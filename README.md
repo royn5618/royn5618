@@ -15,7 +15,7 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 <ul>
   </br>
 <b>Exploratory Data Analysis</b></br>
-✒ <a href="https://omdena.com/blog/advanced-eda/" rel="noopener">Advanced EDA of UK’s Road Safety Data using Python </a><a href="https://omdena.com/"><img height="22px" src="https://omdena.com/wp-content/uploads/2019/12/logo-2.png"></a></br>
+✒ <a href="https://omdena.com/blog/advanced-eda/" rel="noopener">Advanced EDA of UK’s Road Safety Data using Python </a><a href="https://omdena.com/"><img height="10px" src="https://omdena.com/wp-content/uploads/2019/12/logo-2.png"></a></br>
 ✒ <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc" rel="noopener">Predicting Hazardous Seismic Bumps Part I&nbsp;: EDA, Feature Engineering &amp; Splitting Unbalanced Dataset</a></br>
 ✒ <a href="https://towardsdatascience.com/tv-shows-on-online-streaming-services-a-visual-comparison-using-python-cd269bed44fd" rel="noopener">A Visual Comparison of TV Shows on Online Streaming Services like Netflix and Amazon Prime Video using Python</a></br>
 ✒ <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3" rel="noopener">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</a></br>
@@ -38,8 +38,8 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 <b>Misc</b></br>
 ✒ <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a></br>
 ✒ <a href="https://towardsdatascience.com/common-git-commands-cheat-sheet-9cd8efcabd17" rel="noopener">My Common Git Commands Cheat Sheet</a></br>
-✒ <a href="https://medium.com/womeninai/human-like-machines-yeah-right-fcf0759468ad" rel="noopener">Human-like Machines? Yeah, right!</a><a href="https://www.womeninai.co/"><img height="22px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
-✒ <a href="https://medium.com/womeninai/ai4good-augmented-reality-and-virtual-reality-applications-to-replace-zoos-33bf33724eab" rel="noopener">AI4Good: Augmented Reality and Virtual Reality Applications to Replace Zoos</a><a href="https://www.womeninai.co/"><img height="22px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
+✒ <a href="https://medium.com/womeninai/human-like-machines-yeah-right-fcf0759468ad" rel="noopener">Human-like Machines? Yeah, right!  </a><a href="https://www.womeninai.co/"><img height="15px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
+✒ <a href="https://medium.com/womeninai/ai4good-augmented-reality-and-virtual-reality-applications-to-replace-zoos-33bf33724eab" rel="noopener">AI4Good: Augmented Reality and Virtual Reality Applications to Replace Zoos  </a><a href="https://www.womeninai.co/"><img height="15px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
 </ul>
 </div>
 
