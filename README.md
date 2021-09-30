@@ -44,10 +44,15 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 </div>
 
 <h3>📽 Online Videos:</h3>
+<div>
+  <ul>
+    </br>
+    📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
+    📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: Fraud detection with ML (Oct , 2020)</a></br>
+  </ul>
+</div>
 
-📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
-📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
-📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: Fraud detection with ML (Oct , 2020)</a></br>
 <!--
 **royn5618/royn5618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
