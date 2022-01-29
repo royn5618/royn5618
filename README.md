@@ -10,18 +10,21 @@ Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ 
 </a>
 </br>
 <h3>✒ Past  Work Experience:</h3>
- <li>
-  <ol>Data Scientist @ Fiserv </ol>
-  <ol>Data Analyst @ Smartbox Inc. </ol>
-  <ol>Systems Engineer @ Infosys Ltd. </ol>
- </li>
+Data Scientist @ Fiserv | Data Analyst @ Smartbox Inc. | Systems Engineer @ Infosys Ltd.
  
 <h3>✒ Past Freelance Experience:</h3>
- <li>
-  <ol> Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) </ol>
-  <ol> Machine Learning Engineer @ [Omdena](https://omdena.com/) </ol>
-  <ol> Natural Language Processing Workshop Instructor @ [WAIA](https://www.womenaiacademy.com) </ol>
- </li>
+Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Machine Learning Engineer @ [Omdena](https://omdena.com/) | Natural Language Processing Workshop Instructor @ [WAIA](https://www.womenaiacademy.com)
+
+<h3>📽 Meetup/Conference Talks:</h3>
+<div>
+  <ul>
+    </br>
+    📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: [Talk] Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
+    📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Fraud detection with ML (Oct , 2020)</a></br>
+  </ul>
+</div>
  
 </br>
 <h3>✒ My Blogs:</h3>
@@ -55,17 +58,6 @@ Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ 
 ✒ <a href="https://medium.com/womeninai/human-like-machines-yeah-right-fcf0759468ad" rel="noopener">Human-like Machines? Yeah, right!  </a><a href="https://www.womeninai.co/"><img height="15px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
 ✒ <a href="https://medium.com/womeninai/ai4good-augmented-reality-and-virtual-reality-applications-to-replace-zoos-33bf33724eab" rel="noopener">AI4Good: Augmented Reality and Virtual Reality Applications to Replace Zoos  </a><a href="https://www.womeninai.co/"><img height="15px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
 </ul>
-</div>
-
-<h3>📽 Online Videos:</h3>
-<div>
-  <ul>
-    </br>
-    📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
-    📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
-    📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: [Talk] Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
-    📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Fraud detection with ML (Oct , 2020)</a></br>
-  </ul>
 </div>
 
 <!--
