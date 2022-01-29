@@ -13,7 +13,7 @@ Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ 
 Data Scientist @ Fiserv | Data Analyst @ Smartbox Inc. | Systems Engineer @ Infosys Ltd.
  
 <h3>✒ Past Freelance Experience:</h3>
-Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Machine Learning Engineer @ [Omdena](https://omdena.com/) | Natural Language Processing Workshop Instructor @ [WAIA](https://www.womenaiacademy.com)
+Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a> | Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a> | Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
 
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
