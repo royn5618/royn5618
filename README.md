@@ -1,7 +1,6 @@
 ### Welcome to my GitHub Repository
 
-Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) |
-Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
+Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
 </br>
 <a href="http://www.linkedin.com/in/nabanita-roy">
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -9,6 +8,21 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 <a href="https://medium.com/@nroy0110">
   <img align="left" alt="Nabanita's Medium" height="22px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/RGB/Medium-Logo-Two-Color-Black-White-RGB%401x.png"/>
 </a>
+</br>
+<h3>✒ Past  Work Experience:</h3>
+ <li>
+  <ol>Data Scientist @ Fiserv </ol>
+  <ol>Data Analyst @ Smartbox Inc. </ol>
+  <ol>Systems Engineer @ Infosys Ltd. </ol>
+ </li>
+ 
+<h3>✒ Past Freelance Experience:</h3>
+ <li>
+  <ol> Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) </ol>
+  <ol> Machine Learning Engineer @ [Omdena](https://omdena.com/) </ol>
+  <ol> Natural Language Processing Workshop Instructor @ [WAIA](https://www.womenaiacademy.com) </ol>
+ </li>
+ 
 </br>
 <h3>✒ My Blogs:</h3>
 <div>
