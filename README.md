@@ -47,7 +47,7 @@ Python & Data Science Instructor @ [WAIA](https://www.womenaiacademy.com) | Blog
 <div>
   <ul>
     </br>
-    📽 <a href="https://zoom.us/rec/play/Xo9cx2UPbHlj8Jas6NLWjGXylXS4CnUxVrjVUBAbMSaLBetmuVuVZblcsWwdkt-j_0WpcRYhl745Ckxe.4skodg0Av-D9bSW0" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: [Talk] Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
     📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Fraud detection with ML (Oct , 2020)</a></br>
