@@ -18,6 +18,8 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
   <ul>
+     </br>
+    📽 <a href="https://www.youtube.com/watch?v=UcfmiCbx6BU&t=17s" rel="noopener"> PyCon SriLanka 2022 - [Talk] Word Embeddings for Text Classification (Feb , 2022)</a></br>
     </br>
     📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
@@ -53,6 +55,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 ✒ <a href="https://towardsdatascience.com/extracting-features-from-covids-news-a-simple-bag-of-words-approach-for-time-series-text-data-bffe59de76a1" rel="noopener">Extracting Features From Covid News: A Simple Bag-of-Words Approach for Time-Series Text Data Modelling | Covid-19 Article 2</a></br>
 </br>
 <b>Misc</b></br>
+✒ <a href="https://nroy0110.medium.com/my-five-most-frequently-used-jupyter-notebook-extensions-to-save-time-and-effort-2aeb2ff25e50" rel="noopener">My Five Most-Frequently-Used Jupyter Notebook Extensions to Save Time and Effort</a></br>
 ✒ <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a></br>
 ✒ <a href="https://towardsdatascience.com/common-git-commands-cheat-sheet-9cd8efcabd17" rel="noopener">My Common Git Commands Cheat Sheet</a></br>
 ✒ <a href="https://medium.com/womeninai/human-like-machines-yeah-right-fcf0759468ad" rel="noopener">Human-like Machines? Yeah, right!  </a><a href="https://www.womeninai.co/"><img height="15px" src="https://cdn-images-1.medium.com/fit/c/54/54/1*8-iLb9PK3GzWcR3SORQnDQ.png"></a></br>
