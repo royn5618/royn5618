@@ -10,8 +10,8 @@ Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ 
 </a>
 </br>
 <h3>✒ Past  Work Experience:</h3>
-Data Scientist @ Fiserv | Data Analyst @ Smartbox Inc. | Systems Engineer @ Infosys Ltd.
- 
+Data Scientist @ <a href='https://www.fiserv.com/'>Fiserv</a> | Data Analyst @ <a href='https://www.smartbox.com/ie/'>Smartbox</a> | (Senior) Systems Engineer @ <a href='https://www.infosys.com/'>Infosys Ltd.</a>
+</br>
 <h3>✒ Past Freelance Experience:</h3>
 Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a> | Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a> | Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
 
