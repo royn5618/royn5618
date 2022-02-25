@@ -19,7 +19,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <div>
   <ul>
      </br>
-    📽 <a href="https://www.youtube.com/watch?v=UcfmiCbx6BU&t=17s" rel="noopener"> PyCon SriLanka 2022 - [Talk] Word Embeddings for Text Classification (Feb , 2022)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=ORHrobrJIig" rel="noopener"> PyCon SriLanka 2022 - [Talk] Word Embeddings for Text Classification (Feb , 2022)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: [Talk] Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
