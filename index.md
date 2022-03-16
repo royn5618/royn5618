@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Repository
 
-Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
-</br>
+Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP
+
 <a href="http://www.linkedin.com/in/nabanita-roy">
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -18,7 +18,6 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
   <ul>
-     </br>
     📽 <a href="https://www.youtube.com/watch?v=ORHrobrJIig" rel="noopener"> PyCon SriLanka 2022 - [Talk] Word Embeddings for Text Classification (Feb , 2022)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
