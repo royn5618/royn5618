@@ -1,13 +1,9 @@
-### Who am I?
-
-Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP
-
+### Nabanita Roy 
 <a href="http://www.linkedin.com/in/nabanita-roy">
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://medium.com/@nroy0110">
-  <img align="left" alt="Nabanita's Medium" height="22px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/RGB/Medium-Logo-Two-Color-Black-White-RGB%401x.png"/>
-</a>
+
+Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP
 
 <h3>✒ Past  Work Experience:</h3>
 Data Scientist @ <a href='https://www.fiserv.com/'>Fiserv</a> | Data Analyst @ <a href='https://www.smartbox.com/ie/'>Smartbox</a> | (Senior) Systems Engineer @ <a href='https://www.infosys.com/'>Infosys Ltd.</a>
