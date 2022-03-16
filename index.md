@@ -25,9 +25,8 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <h3>✒ My Blogs:</h3>
 <div>
 <ul>
-  </br>
-<b>Exploratory Data Analysis</b></br>
-✒ <a href="https://omdena.com/blog/advanced-eda/" rel="noopener">Advanced EDA of UK’s Road Safety Data using Python </a><a href="https://omdena.com/"><img height="10px" src="https://omdena.com/wp-content/uploads/2019/12/logo-2.png"></a></br>
+<b>Exploratory Data Analysis</b>
+<li> <a href="https://omdena.com/blog/advanced-eda/" rel="noopener">Advanced EDA of UK’s Road Safety Data using Python </a><a href="https://omdena.com/"><img height="10px" src="https://omdena.com/wp-content/uploads/2019/12/logo-2.png"></a></li>
 ✒ <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc" rel="noopener">Predicting Hazardous Seismic Bumps Part I&nbsp;: EDA, Feature Engineering &amp; Splitting Unbalanced Dataset</a></br>
 ✒ <a href="https://towardsdatascience.com/tv-shows-on-online-streaming-services-a-visual-comparison-using-python-cd269bed44fd" rel="noopener">A Visual Comparison of TV Shows on Online Streaming Services like Netflix and Amazon Prime Video using Python</a></br>
 ✒ <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3" rel="noopener">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</a></br>
