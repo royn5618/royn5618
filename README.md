@@ -1,5 +1,9 @@
 ### Welcome to my GitHub Repository
 
+[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabanita-roy/)](https://www.linkedin.com/in/nabanita-roy/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://nroy0110.medium.com/)](https://nroy0110.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nroy0110@gmail.com)](mailto:nroy0110@gmail.com)
+
+
 Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
 </br>
 <a href="http://www.linkedin.com/in/nabanita-roy">
