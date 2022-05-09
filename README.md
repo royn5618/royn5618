@@ -2,7 +2,7 @@
 
 <a href="http://www.linkedin.com/in/nabanita-roy">
   <img align="left" alt="Nabanita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> | Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
+</a> Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Edu Co-Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br>
 </br>
 </a>
 </br>
