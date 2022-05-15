@@ -35,6 +35,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 ✒ <a href="https://towardsdatascience.com/tv-shows-on-online-streaming-services-a-visual-comparison-using-python-cd269bed44fd" rel="noopener">A Visual Comparison of TV Shows on Online Streaming Services like Netflix and Amazon Prime Video using Python</a></br>
 ✒ <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3" rel="noopener">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</a></br>
 </br>
+
 <b>Machine Learning</b></br>
 ✒ <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-part-ii-training-supervised-classifier-models-and-8b9104b611b0" rel="noopener">Predicting Hazardous Seismic Bumps Part II: Training &amp; Tuning Supervised ML Classifiers and Model…</a></br>
 ✒ <a href="https://towardsdatascience.com/a-simplified-explanation-of-supervised-machine-learning-for-electrical-and-electronics-engineers-6d533cdedc6d" rel="noopener">ML Jargons Busted: Supervised Machine Learning for Electrical and Electronics Engineers</a></br>
@@ -43,6 +44,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 
 </br>
 <b>Natural Language Processing</b></br>
+✒ <a href="https://medium.com/towards-data-science/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0" rel="noopener">Multiclass Text Classification Using Keras to Predict Emotions: A Comparison with and without Word Embeddings</a></br>
 ✒ <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399" rel="noopener">Matrix Design for Vector Space Models in Natural Language Processing</a></br>
 ✒ <a href="https://towardsdatascience.com/building-a-text-normalizer-using-nltk-ft-pos-tagger-e713e611db8" rel="noopener">Building a Text Normalizer using NLTK ft. POS tagger</a>
 </br>
