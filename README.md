@@ -44,6 +44,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 
 </br>
 <b>Natural Language Processing</b></br>
+✒ <a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009" rel="noopener">Performance Improvement of a Multiclass Text Classifier using KerasTuner and other basic Data Analytics Techniques</a></br>
 ✒ <a href="https://medium.com/towards-data-science/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0" rel="noopener">Multiclass Text Classification Using Keras to Predict Emotions: A Comparison with and without Word Embeddings</a></br>
 ✒ <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399" rel="noopener">Matrix Design for Vector Space Models in Natural Language Processing</a></br>
 ✒ <a href="https://towardsdatascience.com/building-a-text-normalizer-using-nltk-ft-pos-tagger-e713e611db8" rel="noopener">Building a Text Normalizer using NLTK ft. POS tagger</a>
