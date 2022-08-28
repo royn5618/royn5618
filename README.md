@@ -46,6 +46,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <b>Natural Language Processing</b></br>
 ✒ <a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009" rel="noopener">Performance Improvement of a Multiclass Text Classifier using KerasTuner and other basic Data Analytics Techniques</a></br>
 ✒ <a href="https://medium.com/towards-data-science/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0" rel="noopener">Multiclass Text Classification Using Keras to Predict Emotions: A Comparison with and without Word Embeddings</a></br>
+✒ <a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2" rel="noopener">10 Must-Know built-in functions in Python for Natural Language Processing</a></br>
 ✒ <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399" rel="noopener">Matrix Design for Vector Space Models in Natural Language Processing</a></br>
 ✒ <a href="https://towardsdatascience.com/building-a-text-normalizer-using-nltk-ft-pos-tagger-e713e611db8" rel="noopener">Building a Text Normalizer using NLTK ft. POS tagger</a>
 </br>
@@ -53,7 +54,9 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 ✒ <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3" rel="noopener">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</a></br>
 ✒ <a href="https://towardsdatascience.com/extracting-features-from-covids-news-a-simple-bag-of-words-approach-for-time-series-text-data-bffe59de76a1" rel="noopener">Extracting Features From Covid News: A Simple Bag-of-Words Approach for Time-Series Text Data Modelling | Covid-19 Article 2</a></br>
 </br>
+
 <b>Misc</b></br>
+✒ <a href="https://pub.towardsai.net/about-ai-by-ai-d31963400ff5" rel="noopener">— About AI, By AI 🤖</a></br>
 ✒ <a href="https://nroy0110.medium.com/my-five-most-frequently-used-jupyter-notebook-extensions-to-save-time-and-effort-2aeb2ff25e50" rel="noopener">My Five Most-Frequently-Used Jupyter Notebook Extensions to Save Time and Effort</a></br>
 ✒ <a href="https://towardsdatascience.com/a-quicker-way-to-download-kaggle-datasets-in-google-collab-abe90bf8c866" rel="noopener">A Quicker Way to Download Kaggle Datasets in Google Collab</a></br>
 ✒ <a href="https://towardsdatascience.com/common-git-commands-cheat-sheet-9cd8efcabd17" rel="noopener">My Common Git Commands Cheat Sheet</a></br>
