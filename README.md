@@ -47,7 +47,7 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 ✒ <a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009" rel="noopener">Performance Improvement of a Multiclass Text Classifier using KerasTuner and other basic Data Analytics Techniques</a></br>
 ✒ <a href="https://medium.com/towards-data-science/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0" rel="noopener">Multiclass Text Classification Using Keras to Predict Emotions: A Comparison with and without Word Embeddings</a></br>
 ✒ <a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2" rel="noopener">10 Must-Know built-in functions in Python for Natural Language Processing</a></br>
-✒ <a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2" rel="noopener">#EarthDay2022 Tweet Analysis and Visualization using Pattern, Hugging Face and Plotly</a></br>
+✒ <a href="https://nroy0110.medium.com/earthday2022-tweet-analysis-and-visualization-using-pattern-hugging-face-and-plotly-1a0f54aa0b59" rel="noopener">#EarthDay2022 Tweet Analysis and Visualization using Pattern, Hugging Face and Plotly</a></br>
 ✒ <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399" rel="noopener">Matrix Design for Vector Space Models in Natural Language Processing</a></br>
 ✒ <a href="https://towardsdatascience.com/building-a-text-normalizer-using-nltk-ft-pos-tagger-e713e611db8" rel="noopener">Building a Text Normalizer using NLTK ft. POS tagger</a>
 </br>
@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 ---
  
 💬 Ask me about Python, Data Analysis, Data Science, Coding, Ireland, Study Abroad, Natural Language Processing, Women in AI, Data Science Portfolio</br>
-📫 How to reach me: <a>nabanita@womeninai.co</a></br>
-🔭 I’m currently working on Deep Learning for Text Generation</br>
+📫 How to reach me: <a>nroy0110@gmail.com</a> or <a>nabanita@womeninai.co</a></br>
+🔭 I’m currently working on Deep Learning for Text/Code Generation</br>
 👯 If you are looking for collaborations for Data Science projects - check out [WaiPRACTICE](https://women-in-ai-ireland.github.io/WAIPracticeInfoPage/)
