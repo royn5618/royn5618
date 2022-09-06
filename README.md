@@ -1,9 +1,11 @@
 ### Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐
 
-Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br> 
+Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP 
+</br>
+</br>
 <a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabanita-roy">
 <a href="https://medium.com/@nroy0110" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nabanita-roy">
-<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle" alt="nabanita-roy">
+<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-23bbfa?style=for-the-badge&logo=kaggle&logoColor=white" alt="nabanita-roy">
 </br>
 <h3>✒ Past  Work Experience:</h3>
 Data Scientist @ <a href='https://www.fiserv.com/'>Fiserv</a> | Data Analyst @ <a href='https://www.smartbox.com/ie/'>Smartbox</a> | (Senior) Systems Engineer @ <a href='https://www.infosys.com/'>Infosys Ltd.</a>
@@ -15,8 +17,10 @@ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA
 <div>
   <ul>
      </br>
+    📽 EuroPython 2022 (Dublin): [Panel Discussion] Diversity and Inclusion in Python and Tech Communities (July, 2022) </br>
     📽 <a href="https://www.youtube.com/watch?v=ORHrobrJIig" rel="noopener"> PyCon SriLanka 2022 - [Talk] Word Embeddings for Text Classification (Feb , 2022)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=kNLqQSqbO5k" rel="noopener"> PyData Global Conference - [Tutorial] Getting Started with Text Classification: Predict if Tweets are about Real Disasters (Oct , 2021)</a></br>
+    📽 PyData Global Conference - [Panel Discussion] Career Guidance in Data Science, Open-Source contributions, and Building Data Science Portfolio (Oct, 2021) </br>
     📽 <a href="https://www.youtube.com/watch?v=LgA_RVOAbCI" rel="noopener"> EuroPython Conference - [Talk] Leveraging Linked Data using Python and SPARQL (Jul , 2021)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=N5XXeZs5vz0" rel="noopener"> PyLadies Dublin: [Talk] Scraping Wikipedia using SPARQL and DBPedia (May, 2021) </a></br>
     📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Fraud detection with ML (Oct , 2020)</a></br>
