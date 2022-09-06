@@ -1,9 +1,9 @@
-### Hey! Am Nabanita.. Welcome to my GitHub Repository
+### Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐
 
 Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </br> 
 <a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabanita-roy">
 <a href="https://medium.com/@nroy0110" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nabanita-roy">
-<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-12100E?style=for-the-badge&logo=kaggle" alt="nabanita-roy">
+<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle" alt="nabanita-roy">
 </br>
 <h3>✒ Past  Work Experience:</h3>
 Data Scientist @ <a href='https://www.fiserv.com/'>Fiserv</a> | Data Analyst @ <a href='https://www.smartbox.com/ie/'>Smartbox</a> | (Senior) Systems Engineer @ <a href='https://www.infosys.com/'>Infosys Ltd.</a>
