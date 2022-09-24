@@ -1,6 +1,6 @@
 ### Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐
 
-Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP 
+<strong> Data Scientist @ [ACI Worldwide](https://www.aciworldwide.com/) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </strong>
 </br>
 </br>
 <a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabanita-roy">
