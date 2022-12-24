@@ -1,6 +1,6 @@
 ### Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐
 
-<strong> Data Scientist @ [EY (UK & Irleand](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | ❤ NLP </strong>
+<strong> Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up) </strong>
 </br>
 </br>
 <a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabanita-roy">
