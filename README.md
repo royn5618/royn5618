@@ -9,13 +9,6 @@
 Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up)
 </br>
 
-<h3>✒ Volunteering Experience:</h3>
-  <ul>
-  ✒ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a></br>
-  ✒ Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a></br>
-  ✒ Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
-  </ul>
-
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
   <ul>
@@ -33,7 +26,7 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 </div>
  
 </br>
-<h3>✒ My Blogs:</h3>
+<h3>✒ My Latest Blogs:</h3>
 
 <blockquote class="embedly-card"><h4><a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">My Experience, Thoughts and Logs @ Money20/20 RiseUp Europe 2022</a></h4><p>Tracey Davis, the Founder & President of Money20/20 and the founder of the RiseUp initiative, opened the session of RiseUp Europe 2022 by quoting Kahina Van Dyke from Standard Chartered <a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">Read more...</a></p></blockquote>
 
@@ -41,6 +34,12 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 
 <blockquote class="embedly-card"><h4><a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2">10 Must-Know built-in functions in Python for Natural Language Processing</a></h4><p>Learn Python's useful built-in functions focusing on NLP use-cases Beginner in Python & interested in Text Processing? Then read on... Natural Language Processing is in high demand now and Python has built-in functions to support whatever you need for processing and... <a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2">Read more...</a></p></blockquote>
 
+<h3>✒ Volunteering Experience:</h3>
+  <ul>
+  ✒ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a></br>
+  ✒ Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a></br>
+  ✒ Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
+  </ul>
 
 <!--
 **royn5618/royn5618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
