@@ -1,16 +1,14 @@
-### Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐
+<p align="center"><strong> Hey! Am Nabanita.. Welcome to my GitHub Repository ⭐ </strong></p>
 
-<strong> Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up) </strong>
+Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up)
 </br>
 </br>
-<a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabanita-roy">
-<a href="https://medium.com/@nroy0110" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nabanita-roy">
-<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-23bbfa?style=for-the-badge&logo=kaggle&logoColor=white" alt="nabanita-roy">
+<a href="https://www.linkedin.com/in/nabanita-roy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?" alt="nabanita-roy">
+<a href="https://medium.com/@nroy0110" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?" alt="nabanita-roy">
+<a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-23bbfa?" alt="nabanita-roy">
 </br>
-<h3>✒ Past  Work Experience:</h3>
-Data Scientist @ <a href='https://www.aciworldwide.com/'>ACI Worldwide</a> | Data Scientist @ <a href='https://www.fiserv.com/'>Fiserv</a> | Data Analyst @ <a href='https://www.smartbox.com/ie/'>Smartbox</a> | (Senior) Systems Engineer @ <a href='https://www.infosys.com/'>Infosys Ltd.</a>
-</br>
-<h3>✒ Past Freelance Experience:</h3>
+
+<h3>✒ Volunteering Experience:</h3>
 Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a> | Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a> | Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
 
 <h3>📽 Meetup/Conference Talks:</h3>
