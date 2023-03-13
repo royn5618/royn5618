@@ -6,7 +6,7 @@
 <a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-23bbfa?" alt="nabanita-roy">
 </p>
 
-Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up)
+Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up) | Speaker | Mentor
 </br>
 
 <h3>📽 Meetup/Conference Talks:</h3>
