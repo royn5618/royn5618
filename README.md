@@ -12,7 +12,8 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
   <ul>
-     </br>
+    </br>
+    📽 📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> Three Quick, Easy and No-Scraper ways of Getting Text Data (Feb , 2023)</a></br>
     📽 PyCon Portugal 2022 - [Workshop] Building and Optimizing a Multiclass Text Classifier using Keras (Sep , 2022)</br>
     📽 <a href="https://www.youtube.com/watch?v=W-N8Azy5iCw" rel="noopener"> PyCon Slovakia 2022 - [Talk] Introduction to Text Analytics for Social Media Chatter (Sep , 2022)</a></br>
     📽 EuroPython 2022 (Dublin): [Panel Discussion] Diversity and Inclusion in Python and Tech Communities (July, 2022) </br>
@@ -28,7 +29,9 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 </br>
 <h3>✒ My Latest Blogs:</h3>
 
-<blockquote class="embedly-card"><h4><a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">My Experience, Thoughts and Logs @ Money20/20 RiseUp Europe 2022</a></h4><p>Tracey Davis, the Founder & President of Money20/20 and the founder of the RiseUp initiative, opened the session of RiseUp Europe 2022 by quoting Kahina Van Dyke from Standard Chartered <a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">Read more...</a></p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">Other ML Jargons: Sparse and Dense Representations of Texts for Machine Learning</a></h4><p>Tracey Davis, the Founder & President of Money20/20 and the founder of the RiseUp initiative, opened the session of RiseUp Europe 2022 by quoting Kahina Van Dyke from Standard Chartered <a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">Read more...</a></p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca">My Experience, Thoughts and Logs @ Money20/20 RiseUp Europe 2022</a></h4><p>Representing text data as vectors are necessary for applying Machine Learning techniques to make predictions, recommendations, or clusters. The concepts of “Sparsity” and “Density” arrive at efficiently designing and constructing these vectors for all high-dimensional data processing use-cases in the world of Artificial Intelligence. <a href="https://medium.com/towards-data-science/other-ml-jargons-sparse-and-dense-representations-of-texts-for-machine-learning-21fcd7a01410">Read more...</a></p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009">Performance Improvement of a Multiclass Text Classifier using KerasTuner and other basic Data...</a></h4><p>In my previous article on Multiclass Text Classification Using Keras to Predict Emotions, I compared the outcome of the usage of skipgrams to give a deep text classifier a headstart with learnt word embeddings for predicting emotions with that of another deep text classifier that learns the embeddings from scratch... <a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009">Read more...</a></p></blockquote>
 
