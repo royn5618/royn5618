@@ -40,7 +40,7 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
   <ul>
   ✒ Python & Data Science Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a></br>
   ✒ Machine Learning Engineer @ <a href='https://omdena.com/'>Omdena</a></br>
-  ✒ Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a>
+  ✒ Natural Language Processing Workshop Instructor @ <a href='https://www.womenaiacademy.com'>WAIA</a></br>
   ✒ Mentor @ <a href='https://anitab.org/'>AnitaB.org </a> | <a href='https://www.womeninai.co/education'> WAI Ireland </a>
   </ul>
 
