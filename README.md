@@ -14,6 +14,7 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
   <ul>
     </br>
     📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Three Quick, Easy and No-Scraper ways of Getting Text Data (Feb , 2023)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=xH8s9LIUxZ4" rel="noopener"> Women in AI Ireland: [Talk] WAITutorials - Tools for Python (Sep , 2022)</a><br/>
     📽 PyCon Portugal 2022 - [Workshop] Building and Optimizing a Multiclass Text Classifier using Keras (Sep , 2022)</br>
     📽 <a href="https://www.youtube.com/watch?v=W-N8Azy5iCw" rel="noopener"> PyCon Slovakia 2022 - [Talk] Introduction to Text Analytics for Social Media Chatter (Sep , 2022)</a></br>
     📽 EuroPython 2022 (Dublin): [Panel Discussion] Diversity and Inclusion in Python and Tech Communities (July, 2022) </br>
