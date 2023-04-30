@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>NR</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://kit.fontawesome.com/2696344a26.js" crossorigin="anonymous"></script>
+  <style>
+  #light-teal{
+    background-color:#b4ced2;
+  }
+  #nav-item{
+    font-weight: bold;
+  }
+  a{
+    padding-right:20px;
+  }
+  a:link, a:visited {
+    color: #071E22;
+    font-weight: bold;
+  }
+  a:hover, a:active{
+    color: #1D7874; !important
+    font-weight: bold;
+  }
+  .badge{
+    background-color:#005666;
+  }
+  .badge-active{
+    background-color:#b4ced2;
+    color: #071E22;
+  }
+  #aoi{
+    font-size:14px;
+  }
+  .card-header{
+    font-weight: bold;
+    color:#1D7874;
+  }
+  #date{
+    color:#1D7874;
+  }
+  #card-heading{
+    font-size:13px;
+    background-color:#b4ced2;
+    color: #071E22;
+  }
+  #card-desc{
+    font-size:12px;
+  }
+  </style>
+</head>
+<body style="font-family:sans-serif;">
+  <div class="container mt-1" style="padding:30px">
+    <ul class="nav justify-content-end">
+      <li class="nav-item">
+        <a href="home.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">Blogs</a>
+      </li>
+      <li class="nav-item">
+        <a href="mytalks.html">Speaking</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">Contact</a>
+      </li>
+    </ul>
+  </div>
+  <div class="container pt-5">
+    <span class="badge text-light border border-dark"></span>
+    <a href="myblogs-ml.html"><span class="badge text-light border border-dark">Machine & Deep Learning <span class="badge text-bg-warning">12</span></span></a>
+    <a href="myblogs-nlp.html"><span class="badge text-light border border-dark">Natural Language Processing <span class="badge text-bg-warning">12</span></span></a>
+    <a href="#"><span class="badge text-light border border-dark">Deep Learning <span class="badge text-bg-warning">12</span></span></a>
+    <a href="#"><span class="badge text-light border border-dark">Data Analysis & Visualization <span class="badge text-bg-warning">12</span></span></a>
+    <a href="myblogs-misc.html"><span class="badge badge-active border border-3 border-dark">Miscelleneous <span class="badge text-bg-warning border border-dark">7</span></span></a>
+  </div>
+  <div class="container pt-5">
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">
+            My Experience, Thoughts and Logs @ Money20/20 RiseUp Europe 2022
+          </div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cufxl2Qu4XteL2TjBzNzEw.jpeg" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">From the wealth of knowledge and experience I acquired at Money20/20 Europe, I have summed up my five key takeaways in this article. Read on to feel inspired.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://nroy0110.medium.com/my-experience-thoughts-and-logs-money20-20-riseup-europe-2022-b715caa3a5ca?sk=5eff5dbdcccb3b4527537c2b25c5a487" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Dec 23, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">— About AI, By AI 🤖</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*fsqU1P8WejMs4OJT" alt="Card image" style="max-height:187px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Disclaimer: This article is 90% generated using AI. Recently, I started digging into the HuggingFace library and thought of having some fun with the text generation pipeline. Hence, I compiled this interview-styled article where I present a curation of texts that were generated with EleutherAI’s GPT Neo model using the questions as the prompt.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://pub.towardsai.net/about-ai-by-ai-d31963400ff5?sk=89db248b345c651d55cf5ab974bca5f1" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/blob/master/TextGenerationExperiments/AI%20on%20AI.ipynb" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May25, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">My Five Most-Frequently-Used Jupyter Notebook Extensions to Save Time and Effort</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/1*yT9iCpfiYZ3cPcqbkFahoQ.png" alt="Card image" style="max-height:187px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Jupyter Notebooks Extensions are nothing but add-ons to your regular notebook functionalities. Here's a list of notebook extensions to make your Jupyter Notebook environment more productive, structured, and presentable.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://nroy0110.medium.com/my-five-most-frequently-used-jupyter-notebook-extensions-to-save-time-and-effort-2aeb2ff25e50?sk=49aeb22372e5d5c1583f505f42373f27" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Feb 19, 22</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">A Quicker Way to Download Kaggle Datasets in Google Colab</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*BPJkNwMLXT7WK5n12yGpDg.png" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">A simple configuration update could make downloading datasets from Kaggle and running your notebook easier on Google Colab. Follow this article for the script and configuration settings for kaggle.json.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://nroy0110.medium.com/earthday2022-tweet-analysis-and-visualization-using-pattern-hugging-face-and-plotly-1a0f54aa0b59?sk=26eb0ca4cafc3f6f952da2b8d80a8291" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Nov 20, 20</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">AI4Good: Augmented Reality and Virtual Reality Applications to Replace Zoos</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*qXfy9JHN1cjA-Nqw" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">This article explores how immersive technology is being leveraged to replace zoos and giving them a chance back to their natural habitats, among their own.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://medium.com/womeninai/ai4good-augmented-reality-and-virtual-reality-applications-to-replace-zoos-33bf33724eab?sk=e3a0c273b5f51236c50de3b21e39d518" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Aug 10, 20</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">My Common Git Commands Cheat Sheet</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*60bQIZL56YgnDENx" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">In this blog I have documented some of the common git commands I use on a regular basis or had used a couple of times for a specific purpose. This is definitely not an exhaustive list but more comprehensive and is meant for quick reference.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?sk=57a44bcd52dcfb55142d00137a969e0e" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Cheat-Sheets/tree/master/Git-Commands" target="_blank"><button type="button" class="btn btn-sm">Cheatsheet <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Jun 2, 20</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Human-like Machines? Yeah, right!</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*gtY6FEqP5pOK4zhk" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">This article does not a tutorial on AI. This article is a compilation of some thought-provoking opinions expressed about the concept of AI by leading executives and researchers of AI.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://nroy0110.medium.com/earthday2022-tweet-analysis-and-visualization-using-pattern-hugging-face-and-plotly-1a0f54aa0b59?sk=26eb0ca4cafc3f6f952da2b8d80a8291" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May17, 22</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-center" style="font-size:10px;">
+    <i id="socials" class="p-2 fa-brands fa-github-square"></i>Hosted on GitHub Pages
+  </footer>
+</body>
+</html>

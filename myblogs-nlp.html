@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>NR</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://kit.fontawesome.com/2696344a26.js" crossorigin="anonymous"></script>
+  <style>
+  #light-teal{
+    background-color:#b4ced2;
+  }
+  #nav-item{
+    font-weight: bold;
+  }
+  a{
+    padding-right:20px;
+  }
+  a:link, a:visited {
+    color: #071E22;
+    font-weight: bold;
+  }
+  a:hover, a:active{
+    color: #1D7874; !important
+    font-weight: bold;
+  }
+  .badge{
+    background-color:#005666; !important
+  }
+  #aoi{
+    font-size:14px;
+  }
+  .card-header{
+    font-weight: bold;
+    color:#1D7874;
+  }
+  #date{
+    color:#1D7874;
+  }
+  #card-heading{
+    font-size:13px;
+    background-color:#b4ced2;
+    color: #071E22;
+  }
+  #card-desc{
+    font-size:12px;
+  }
+  .badge-active{
+    background-color:#b4ced2;
+    color: #071E22;
+  }
+  </style>
+</head>
+<body style="font-family:sans-serif;">
+  <div class="container mt-1" style="padding:30px">
+    <ul class="nav justify-content-end">
+      <li class="nav-item">
+        <a href="home.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">Blogs</a>
+      </li>
+      <li class="nav-item">
+        <a href="mytalks.html">Speaking</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">Contact</a>
+      </li>
+    </ul>
+  </div>
+  <div class="container pt-5">
+    <span class="badge text-light border border-dark"></span>
+    <a href="myblogs-ml.html"><span class="badge text-light border border-dark">Machine & Deep Learning <span class="badge text-bg-warning">5</span></span></a>
+    <a href="myblogs-nlp.html"><span class="badge badge-active border border-3 border-dark">Natural Language Processing <span class="badge text-bg-warning border border-dark">12</span></span></a>
+    <a href="#"><span class="badge text-light border border-dark">Deep Learning <span class="badge text-bg-warning">3</span></span></a>
+    <a href="#"><span class="badge text-light border border-dark">Data Analysis & Visualization <span class="badge text-bg-warning">4</span></span></a>
+    <a href="myblogs-misc.html"><span class="badge text-light border border-dark">Miscelleneous <span class="badge text-bg-warning">7</span></span></a>
+  </div>
+  <div class="container pt-5">
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Multiclass Text Classification Using Keras to Predict Emotions: A Comparison with & without Word Embeddings</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1400/0*sNEopFim0jLbqRzI" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Do word embeddings add value to text classification models? Let’s find out in this multiclass prediction task for detecting emotions</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0?sk=cf6f064fe150be93175f00a22d0ab029" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/Emotion%20Detection" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Apr 19, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Tuning an Artificial Neural Network: Optimizing a Multiclass Text Classifier using KerasTuner & basic Text Processing Techniques</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*M5aWbLmQE8aFtW0A" alt="Card image" style="max-height:187px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Explore how a text classifier can be improved using hyperparameter tuning for ANNs with KerasTuner’s Hyperband Algorithm</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009?sk=0a4d1e19e13b99a8b8f49221b0f1b93a" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/Emotion%20Detection" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Aug 22, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Building a Text Normalizer using NLTK ft. POS tagger</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*lkfhya7nAKqP-U3Q" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Tokenization and text normalization are the two most fundamental steps of Natural Language Processing (NLP) techniques. This blog is guide to applying them on text data.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/building-a-text-normalizer-using-nltk-ft-pos-tagger-e713e611db8?sk=18a8c5f56819b374433b4f398c165b51" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/blob/master/Text_Normalization_ft_POS_Tagger.ipynb" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Mar 19, 20</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Tweets Scrape, Analysis, and Visualization using Pattern, Hugging Face, and Plotly #EarthDay2022</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*KNh_KF35gDfMn8Mf" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Quick Scrape — Extract — Visualize — Analyze exercise using Pre-trained NLP models for Text Analytics</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://nroy0110.medium.com/earthday2022-tweet-analysis-and-visualization-using-pattern-hugging-face-and-plotly-1a0f54aa0b59?sk=26eb0ca4cafc3f6f952da2b8d80a8291" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/EarthDayBlog" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May17, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Other ML Jargons: Sparse and Dense Representations of Texts for Machine Learning</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*NauphRGUQyw-qVlH" alt="Card image" style="max-height:187px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">A Brief Introduction to Sparse & Dense Vectorization of Texts and their Pros & Cons for Natural Language Processing.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/other-ml-jargons-sparse-and-dense-representations-of-texts-for-machine-learning-21fcd7a01410?sk=7f02bda5b922995926a90dd7d8eb1316" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/blob/master/Sparsity_and_Density.ipynb" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Feb 15, 23</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Predicting Fake News using NLP and Machine Learning | Scikit-Learn | GloVe | Keras | LSTM</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*iaM3-vZSDozVRGhN" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">A simple guide to applying traditional machine learning and deep learning techniques using Python on Kaggle’s Fake News Dataset.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/predicting-fake-news-using-nlp-and-machine-learning-scikit-learn-glove-keras-lstm-7bbd557c3443?sk=57a44bcd52dcfb55142d00137a969e0e" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/Fake_News" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May 2, 21</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Matrix Design for Vector Space Models in Natural Language Processing</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7kXvUfBbNF2-7L3NvJwdyQ.png" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">A brief philosophy of knowledge representation for NLP and a concise guide to matrix design & the curse of dimensionality of distributed word representations.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/matrix-design-for-vector-space-models-in-natural-language-processing-fbef22c10399?sk=9062621bbb64d3ccd9d919b7576babb6" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Jul 17, 20</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">10 Must-Know built-in functions in Python for Natural Language Processing</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*3c02bIpzn6bL6bzL" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Applicability of Python’s useful built-in functions - open, list, set, len, enumerate, dict, input, zip, type and isInstance - for Text Processing and NLP</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://medium.com/geekculture/10-must-know-built-in-functions-in-python-for-natural-language-processing-a4408070cf2?sk=a5973ac6b9e8f92c9032231bca208263" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/Emotion%20Detection" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>Jun 15, 22</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">Exploring News about Covid-19 in Indian Media | NLP| Wordcloud | Covid-19 Article 1</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KuxohrxPFX3foCKEeRrTHw.png" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">In this blog, I attempted to dig into the news articles from Indian media and visualize which words appeared using NewsAPI, NLTK and WordCloud Python libraries.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/exploring-news-about-covid-19-in-indian-media-nlp-wordcloud-covid-19-article-1-2bcbb127dfb3?sk=63c06365a2880979366c4db30ce921fb" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/tree/master/Covid-Blog-Codes" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May16, 20</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row p-3">
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">A Simple Bag-of-Words Approach for Time-Series Text Data Modelling | Covid-19 Article 2</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*gEPrGS_6s2b1OcWU2SYyMg.png" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">In this article, I attempt to explore correlations between features extracted from the texts using BoW approach.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/extracting-features-from-covids-news-a-simple-bag-of-words-approach-for-time-series-text-data-bffe59de76a1?sk=6eb031ae053c705611388995c6c81f01" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Medium_Blog_Codes/blob/master/Covid-Blog-Codes/Covid-Time-Series-Analysis.ipynb" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May 21, 20</button>
+          </div>
+        </div>
+      </div>
+      <div class="p-1 col-sm-4">
+        <div class="card">
+          <div id="card-heading" class="card-header">How to Build your own Domain-Focused Datasets or Corpora from Wikipedia</div>
+          <div class="card-body">
+            <div class="card img-fluid" style="width:400px">
+              <img class="card-img-top" src="https://miro.medium.com/v2/resize:fit:1100/0*se7Ozg8m0TLnUATs" alt="Card image" style="max-height:200px;width:100%">
+            </div>
+            <p class="pt-2" id="card-desc">Wikipedia (Python Library) | Beautiful Soup | MediaWikiAPI | DBpedia | SPARQL</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://towardsdatascience.com/how-to-build-your-own-datasets-or-corpora-from-wikipedia-3eb35d78baac?sk=2c3d8c12b5a6e4d7d1bff6ce6d16dc21" target="_blank"><button type="button" class="btn btn-sm">Read on<i id="socials" class="p-1 fa-brands fa-medium"></i></button></a>
+            <a href="https://github.com/royn5618/Corpus_Builder_Wikipedia" target="_blank"><button type="button" class="btn btn-sm">Get Code on <i id="socials" class="p-1 fa-brands fa-github-square"></i></button></a>
+            <button type="button" id="date" class="btn btn-sm"><i class="p-1 fa-solid fa-calendar-days"></i>May 1, 20</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <footer class="text-center" style="font-size:10px;">
+    <i id="socials" class="p-2 fa-brands fa-github-square"></i>Hosted on GitHub Pages
+  </footer>
+</body>
+</html>
