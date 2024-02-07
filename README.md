@@ -13,6 +13,10 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 <div>
   <ul>
     </br>
+    📽 <a href="https://www.youtube.com/watch?v=xtv3Pee6uhk" rel="noopener"> PyData Global 2023: [Tutorial] Building Contextual ChatBot using LLMs, Vector Databases and Python (Dec , 2023)</a></br>
+    📽 PyCon Ireland 2023: [Workshop] Introduction to NLP and Text Classification (Nov , 2023)</a></br>
+    📽 <a href="https://ep2023.europython.eu/session/women-in-ai-workshop" rel="noopener"> [Workshop] Introduction to Machine Learning with Scikit-Learn | Women in AI @ EuroPython (Jul , 2023)</a></br>
+    📽 <a href="https://www.youtube.com/watch?v=UjTULBZcCPY" rel="noopener"> PyCon SriLanka 2023: [Talk] Create a (Stellar!) Profile Summarizer WebApp using OpenAI API, PDFPlumber, and Streamlit (May , 2023)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Three Quick, Easy and No-Scraper ways of Getting Text Data (Feb , 2023)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=xH8s9LIUxZ4" rel="noopener"> Women in AI Ireland: [Talk] WAITutorials - Tools for Python (Sep , 2022)</a><br/>
     📽 PyCon Portugal 2022 - [Workshop] Building and Optimizing a Multiclass Text Classifier using Keras (Sep , 2022)</br>
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 </br>
 ---
  
-💬 Ask me about Python, Data Analysis, Data Science, Coding, Ireland, Study Abroad, Natural Language Processing, Women in AI, Data Science Portfolio</br>
+💬 Ask me about Python, Data Analysis, Data Science, Career Development, Natural Language Processing, Women in AI </br>
 📫 How to reach me: <a>nroy0110@gmail.com</a> or <a>nabanita@womeninai.co</a></br>
 🔭 I’m currently working on Deep Learning for Text/Code Generation</br>
 👯 If you are looking for collaborations for Data Science projects - check out [WaiPRACTICE](https://women-in-ai-ireland.github.io/WAIPracticeInfoPage/)
