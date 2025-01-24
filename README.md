@@ -6,16 +6,20 @@
 <a href="https://www.kaggle.com/nabanitaroy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-23bbfa?" alt="nabanita-roy">
 </p>
 
-Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up) | Speaker | Mentor
+Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead @ [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/?viewAsMember=true) | Blogger @ [Medium](https://nroy0110.medium.com/) | Speaker | Mentor | Money20/20 [RiseUp Cohort Europe '22](https://europe.money2020.com/attendee-stats/rise-up)
 </br>
 
 <h3>📽 Meetup/Conference Talks:</h3>
 <div>
   <ul>
     </br>
+    📽 <a href="https://www.meetup.com/her-data/events/301626853/?eventOrigin=group_events_list" rel="noopener"> Her+Data Dublin Event </a> : [In-Person Talk] Reimagining Contact Centre Processing with GenAI (Jun, 2024) </br>
+    📽 <a href="https://www.youtube.com/watch?v=N8MNoHbOUEM" rel="noopener"> Dublin Tech Summit 2024: [Panel] The Devil Wears Data (May, 2024) </a> </br>
+    📽 <a href="https://www.eventbrite.ca/e/navigating-the-future-of-work-and-life-with-genai-tickets-887437297847" rel="noopener"> Women in AI Ireland X Shutterstock Event </a> : [In-Person Panel] Navigating the future of work and life with GenAI (May, 2024) </br>
     📽 <a href="https://www.youtube.com/watch?v=xtv3Pee6uhk" rel="noopener"> PyData Global 2023: [Tutorial] Building Contextual ChatBot using LLMs, Vector Databases and Python (Dec , 2023)</a></br>
     📽 PyCon Ireland 2023: [Workshop] Introduction to NLP and Text Classification (Nov , 2023)</a></br>
     📽 <a href="https://ep2023.europython.eu/session/women-in-ai-workshop" rel="noopener"> [Workshop] Introduction to Machine Learning with Scikit-Learn | Women in AI @ EuroPython (Jul , 2023)</a></br>
+    📽 Money20/20 Do.Better.Together: [Panel] Diversity in STEM (June, 2023) </br>
     📽 <a href="https://www.youtube.com/watch?v=UjTULBZcCPY" rel="noopener"> PyCon SriLanka 2023: [Talk] Create a (Stellar!) Profile Summarizer WebApp using OpenAI API, PDFPlumber, and Streamlit (May , 2023)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=-TtzMLM9dT8" rel="noopener"> PyLadies Dublin: [Talk] Three Quick, Easy and No-Scraper ways of Getting Text Data (Feb , 2023)</a></br>
     📽 <a href="https://www.youtube.com/watch?v=xH8s9LIUxZ4" rel="noopener"> Women in AI Ireland: [Talk] WAITutorials - Tools for Python (Sep , 2022)</a><br/>
