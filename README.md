@@ -13,6 +13,7 @@ Data Scientist @ [EY (UK & Irleand)](https://www.ey.com/en_ie) | Education Lead 
 <div>
   <ul>
     </br>
+    📽 <a href="#" rel="noopener"> Dublin Tech Summit 2025: [Keynote] Reimagining Natural Language Processing Systems with GenAI (May, 2025) </a> </br>
     📽 <a href="https://www.meetup.com/her-data/events/301626853/?eventOrigin=group_events_list" rel="noopener"> Her+Data Dublin Event </a> : [In-Person Talk] Reimagining Contact Centre Processing with GenAI (Jun, 2024) </br>
     📽 <a href="https://www.youtube.com/watch?v=N8MNoHbOUEM" rel="noopener"> Dublin Tech Summit 2024: [Panel] The Devil Wears Data (May, 2024) </a> </br>
     📽 <a href="https://www.eventbrite.ca/e/navigating-the-future-of-work-and-life-with-genai-tickets-887437297847" rel="noopener"> Women in AI Ireland X Shutterstock Event </a> : [In-Person Panel] Navigating the future of work and life with GenAI (May, 2024) </br>
